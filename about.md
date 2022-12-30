@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Hello, I'm alejandro shadow and I'm the owner of this website. Here I will be uploading accounts of xbox 360, and also some mini summaries of anime in writing leaving them as a review here in this blog visit my official website [website] (https://lordshadow.net). also visit my project [AnimeDex](https://animedex.tk)
