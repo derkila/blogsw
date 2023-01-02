@@ -8,6 +8,6 @@ don't forget to subscribe on my [YouTube  channel](https://youtube.com/@LordSW)
 
 ![Image of shadow, inc](images/shadow.png)
 
-[Shadow, INC ©2023 LordShadow](https://Shadow.ml)
+## [Shadow, INC ©2023 LordShadow](https://Shadow.ml)
 
 
