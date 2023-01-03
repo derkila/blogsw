@@ -1,6 +1,8 @@
 # Cuenta con Slender: The Arrival
 {% include info.html text="Cuenta Disponible" %}
 
+#### Autor: [Alejandro Shadow](https://youtube.com/@lordsw)
+
 ## Correo: je13@iam.lordshadow.net
 
 ## Contraseña: gywkpdgsieivdhl
