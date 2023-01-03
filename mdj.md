@@ -1,4 +1,6 @@
-# Metodos de Juego
+# mdj
+
+#### Autor: [Alejandro Shadow](https://lordshadow.net)
 
 ## Metodos Para Jugar
 
