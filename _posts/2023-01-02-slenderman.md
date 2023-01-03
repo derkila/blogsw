@@ -5,7 +5,7 @@
 
 ## Correo: je13@iam.lordshadow.net
 
-## Contraseña: gywkpdgsieivdhl
+## Contraseña: gywkpdgsieivtdhl
 
 ## Listado de Juegos:
 
