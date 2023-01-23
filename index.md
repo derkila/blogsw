@@ -8,6 +8,6 @@ don't forget to subscribe on my [YouTube  channel](https://youtube.com/@noxiusde
 
 ![Image of shadow, inc](images/shadow.png)
 
-## [Noxius, LTD ©2023 NoxiusDEV](https://noxius.ltd)
+## [Noxius, LTD ©2023 Noxius](https://noxius.ltd)
 
 
