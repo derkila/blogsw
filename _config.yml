@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: LordShadow
+title: Noxius.Games
 description: Official Blog, i post xbox 360 accounts and updates of my projects... ❤
 
 # Email and twitter are optional:
 email: alex@lordshadow.net
-twitter_username: ilordshadow
+twitter_username: NoxiusDev
 
 # Set this to true to get LaTeX math equation support
 use_math:
