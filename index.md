@@ -4,10 +4,10 @@ Hello, welcome to this website, here you will find xbox 360 accounts that did no
 
 ## Free Games, Free Services.
 
-don't forget to subscribe on my [YouTube  channel](https://youtube.com/@LordSW)
+don't forget to subscribe on my [YouTube  channel](https://youtube.com/@noxiusdev)
 
 ![Image of shadow, inc](images/shadow.png)
 
-## [Shadow, INC ©2023 LordShadow](https://Shadow.ml)
+## [Noxius, LTD ©2023 NoxiusDEV](https://noxius.ltd)
 
 
